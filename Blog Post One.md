@@ -44,6 +44,5 @@ page_sections:
     hope you will be listening, see you there!
   headline: ''
   slug: ''
-published: false
 
 ---
