@@ -19,5 +19,14 @@ content: We’re excited to announce that we’ll be launching our new podcast, 
 media:
   image: "/uploads/2021/01/12/photo-1453738773917-9c3eff1db985.jfif"
   alt_text: Person speaking into microphone
+layout: blocks
+title: 'New Podcast Announcement: Smarter Together'
+date: 2020-11-09 08:00:00 +0000
+page_sections:
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/01/12/photo-1453738773917-9c3eff1db985.jpg"
+  caption: Person speaking into microphone.
+  slug: ''
 
 ---

@@ -44,5 +44,3 @@ fields:
     - Right
   label: Media Alignment
   default: Right
-pages:
-- Blog Post One.md
