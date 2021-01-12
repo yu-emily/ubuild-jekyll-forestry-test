@@ -11,6 +11,9 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+  new_doc_ext: ".md"
+  templates:
+  - page-builder
 - type: directory
   path: ''
   label: Pages
@@ -18,6 +21,8 @@ sections:
   match: "*.md"
   exclude: "*README.md"
   new_doc_ext: md
+  templates:
+  - page-builder
 - type: document
   path: _config.yml
   label: Config
